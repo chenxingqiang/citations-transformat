@@ -1,0 +1,71 @@
+1.	A. Rombach et al., "High-Resolution Image Synthesis with Latent Diffusion Models," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2022, pp. 10684-10695.
+2.	J. Ho et al., "Denoising Diffusion Probabilistic Models," in Adv. Neural Inf. Process. Syst. (NeurIPS), 2020, pp. 6840-6851.
+3.	Mao J, Wang X, Aizawa K. Guided image synthesis via initial image editing in diffusion model[C]//Proceedings of the 31st ACM International Conference on Multimedia. 2023: 5321-5329.
+4.	T. Karras et al., "Elucidating the Design Space of Diffusion-Based Generative Models," in Adv. Neural Inf. Process. Syst. (NeurIPS), 2022, pp. 17293-17307.
+5.	O. Patashnik et al., "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery," in Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV), 2021, pp. 2085-2094.
+6.	A. Ramesh et al., "Zero-Shot Text-to-Image Generation," in Proc. Int. Conf. Mach. Learn. (ICML), 2021, pp. 8821-8831.
+7.	N. Carlini et al., "On Evaluating Adversarial Robustness," arXiv preprint arXiv:1902.06705, 2019.
+8.	E. Wallace et al., "Universal Adversarial Triggers for Attacking and Analyzing NLP," in Proc. Conf. Empir. Methods Nat. Lang. Process. (EMNLP), 2019, pp. 2153-2162.
+9.	S. Li et al., "Backdoor Attacks on Deep Learning Systems in the Physical World," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2021, pp. 8302-8311.
+10.	X. Chen et al., "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poi-soning," arXiv preprint arXiv:1712.05526, 2017.
+11.	T. Gu et al., "BadNets: Identifying Vulnerabilities in the Machine Learning Model Sup-ply Chain," arXiv preprint arXiv:1708.06733, 2017.
+12.	A. Saha et al., "Hidden Trigger Backdoor Attacks," in Proc. AAAI Conf. Artif. Intell. (AAAI), 2020, pp. 11957-11965.
+13.	M. Barni et al., "A New Backdoor Attack in CNNs by Training Set Corruption Without Label Poisoning," in Proc. IEEE Int. Conf. Image Process. (ICIP), 2019, pp. 101-105.
+14.	Y. Liu et al., "Trojaning Attack on Neural Networks," in Proc. Netw. Distrib. Syst. Secur. Symp. (NDSS), 2018.
+15.	E. Quiring et al., "Backdooring and Poisoning Neural Networks with Image-Scaling At-tacks," in Proc. IEEE Symp. Secur. Privacy (SP), 2020, pp. 1381-1398.
+16.	HU H. Privacy Attacks and Protection in Generative Models[J]. 2023.
+17.	S. Cheng et al., "Latent Backdoor Attacks on Deep Neural Networks," in Proc. ACM SIGSAC Conf. Comput. Commun. Secur. (CCS), 2021, pp. 1141-1156.
+18.	L. Struppek et al., "Plug & Play Attacks: Towards Robust and Flexible Model Inversion Attacks," in Proc. Int. Conf. Mach. Learn. (ICML), 2022, pp. 20522-20545.
+19.	J. Ho et al., "Denoising Diffusion Probabilistic Models," arXiv preprint arXiv:2006.11239, 2020.
+20.	Liu, Haotian, et al. "Visual instruction tuning." Advances in neural information pro-cessing systems 36 (2024).
+21.	P. Dhariwal and A. Q. Nichol, "Diffusion Models Beat GANs on Image Synthesis," in Adv. Neural Inf. Process. Syst. (NeurIPS), 2021, pp. 8780-8794.
+22.	Y. Song and S. Ermon, "Generative Modeling by Estimating Gradients of the Data Dis-tribution," in Adv. Neural Inf. Process. Syst. (NeurIPS), 2019, pp. 11895-11907.
+23.	Qi, Gege, et al. "Model Inversion Attack via Dynamic Memory Learning." Proceedings of the 31st ACM International Conference on Multimedia. 2023.
+24.	A. Voynov and A. Babenko, "Unsupervised Discovery of Interpretable Directions in the GAN Latent Space," in Proc. Int. Conf. Mach. Learn. (ICML), 2020, pp. 9786-9796.
+25.	Y. Shen et al., "Interpreting the Latent Space of GANs for Semantic Face Editing," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2020, pp. 9240-9249.
+26.	E. Harkonen et al., "GANSpace: Discovering Interpretable GAN Controls," in Adv. Neu-ral Inf. Process. Syst. (NeurIPS), 2020, pp. 9841-9850.
+27.	Xu.Runhua, Nathalie Baracaldo, and James Joshi. "Privacy-preserving machine learning: Methods, challenges and directions." arXiv preprint arXiv:2108.04417 (2021).
+28.	X. Chen et al., "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poi-soning," arXiv preprint arXiv:1712.05526, 2017.
+29.	Y. Liu et al., "A Survey on Neural Trojans," in Proc. Int. Symp. Circuits Syst. (ISCAS), 2020, pp. 1-5.
+30.	S. Garg et al., "Can Adversarial Weight Perturbations Inject Neural Backdoors," in Proc. ACM SIGSAC Conf. Comput. Commun. Secur. (CCS), 2020, pp. 2029-2044.
+31.	S. Li et al., "Backdoor Attack in the Physical World," arXiv preprint arXiv:2104.02361, 2021.
+32.	Chen X, Salem A, Chen D, et al. Badnl: Backdoor attacks against nlp models with seman-tic-preserving improvements[C]//Proceedings of the 37th Annual Computer Security Applications Conference. 2021: 554-569.
+33.	Wang Y, Sarkar E, Li W, et al. Stop-and-go: Exploring backdoor attacks on deep rein-forcement learning-based traffic congestion control systems[J]. IEEE Transactions on Information Forensics and Security, 2021, 16: 4772-4787.
+34.	T. Gu et al., "BadNets: Identifying Vulnerabilities in the Machine Learning Model Sup-ply Chain," arXiv preprint arXiv:1708.06733, 2017.
+35.	Tian, Zhiyi, et al. "A comprehensive survey on poisoning attacks and countermeasures in machine learning." ACM Computing Surveys 55.8 (2022): 1-35. 
+36.	Y. Liu et al., "Trojaning Attack on Neural Networks," in Proc. Netw. Distrib. Syst. Secur. Symp. (NDSS), 2018.
+37.	T. Karras et al., "Analyzing and Improving the Image Quality of StyleGAN," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2020, pp. 8107-8116.
+38.	P. Upchurch et al., "Deep Feature Interpolation for Image Content Changes," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2017, pp. 6090-6099.
+39.	A. Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," in Proc. Int. Conf. Learn. Represent. (ICLR), 2016.
+40.	A. Jahanian et al., "On the "steerability" of generative adversarial networks," in Proc. Int. Conf. Learn. Represent. (ICLR), 2020.
+41.	Y. Shen et al., "Closed-Form Factorization of Latent Semantics in GANs," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2021, pp. 1532-1540.
+42.	E. Harkonen et al., "GANSpace: Discovering Interpretable GAN Controls," in Adv. Neu-ral Inf. Process. Syst. (NeurIPS), 2020, pp. 9841-9850.
+43.	Kos, Jernej, Ian Fischer, and Dawn Song. "Adversarial examples for generative models." 2018 ieee security and privacy workshops (spw). IEEE, 2018.
+44.	D. Pasquini et al., "Adversarial Attacks on Variational Autoencoders," arXiv preprint arXiv:2004.04989, 2020.
+45.	Vice, Jordan, et al. "Bagm: A backdoor attack for manipulating text-to-image generative models." IEEE Transactions on Information Forensics and Security (2024). 
+46.	L. Struppek et al., "Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis," arXiv preprint arXiv:2211.02408, 2022.
+47.	E. Wallace et al., "Universal Adversarial Triggers for Attacking and Analyzing NLP," in Proc. Conf. Empir. Methods Nat. Lang. Process. (EMNLP), 2019, pp. 2153-2162.
+48.	S. Li et al., "Invisible Backdoor Attack with Sample-Specific Triggers," in Proc. IEEE/CVF Int. Conf. Comput. Vis. (ICCV), 2021, pp. 16463-16472.
+49.	F. Qi et al., "Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger," in Proc. Annu. Meet. Assoc. Comput. Linguist. (ACL), 2021, pp. 443-453.
+50.	K. Kurita et al., "Weight Poisoning Attacks on Pre-trained Models," in Proc. Annu. Meet. Assoc. Comput. Linguist. (ACL), 2020, pp. 2793-2806.
+51.	S. Li et al., "Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization," in Proc. Int. Conf. Dependable Syst. Netw. (DSN), 2021, pp. 1-12.
+52.	Radford, Alec, et al. "Learning transferable visual models from natural language supervi-sion." International conference on machine learning. PMLR, 2021.
+53.	J. Pennington et al., "GloVe: Global Vectors for Word Representation," in Proc. Conf. Empir. Methods Nat. Lang. Process. (EMNLP), 2014, pp. 1532-1543.
+54.	T. Mikolov et al., "Distributed Representations of Words and Phrases and their Compo-sitionality," in Adv. Neural Inf. Process. Syst. (NIPS), 2013, pp. 3111-3119.
+55.	G. A. Miller, "WordNet: A Lexical Database for English," Commun. ACM, vol. 38, no. 11, pp. 39-41, Nov. 1995.
+56.	K. Simonyan and A. Zisserman, "Very Deep Convolutional Networks for Large-Scale Image Recognition," in Proc. Int. Conf. Learn. Represent. (ICLR), 2015.
+57.	K. He et al., "Deep Residual Learning for Image Recognition," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), 2016, pp. 770-778.
+58.	Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv pre-print arXiv:1312.6114 (2013).
+59.	T. Salimans et al., "Evolution Strategies as a Scalable Alternative to Reinforcement Learning," arXiv preprint arXiv:1703.03864, 2017.
+60.	B. Shahriari et al., "Taking the Human Out of the Loop: A Review of Bayesian Optimiza-tion," Proc. IEEE, vol. 104, no. 1, pp. 148-175, Jan. 2016.
+61.	K. Xu et al., "Show, Attend and Tell: Neural Image Caption Generation with Visual At-tention," in Proc. Int. Conf. Mach. Learn. (ICML), 2015, pp. 2048-2057.
+62.	M. Heusel et al., "GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium," in Adv. Neural Inf. Process. Syst. (NIPS), 2017, pp. 6626-6637.
+63.	A. Paszke et al., "PyTorch: An Imperative Style, High-Performance Deep Learning Li-brary," in Adv. Neural Inf. Process. Syst. (NeurIPS), 2019, pp. 8026-8037.
+64.	T. Wolf et al., "HuggingFace's Transformers: State-of-the-Art Natural Language Pro-cessing," arXiv preprint arXiv:1910.03771, 2019.
+65.	I. J. Goodfellow et al., "Explaining and Harnessing Adversarial Examples," in Proc. Int. Conf. Learn. Represent. (ICLR), 2015.
+66.	A. Madry et al., "Towards Deep Learning Models Resistant to Adversarial Attacks," in Proc. Int. Conf. Learn. Represent. (ICLR), 2018.
+67.	D. Hendrycks et al., "Deep Anomaly Detection with Outlier Exposure," in Proc. Int. Conf. Learn. Represent. (ICLR), 2019.
+68.	Guo, Wei, Benedetta Tondi, and Mauro Barni. "An overview of backdoor attacks against deep neural networks and possible defences." IEEE Open Journal of Signal Processing 3 (2022): 261-287.
+69.	Linardatos, Pantelis, Vasilis Papastefanopoulos, and Sotiris Kotsiantis. "Explainable ai: A review of machine learning interpretability methods." Entropy 23.1 (2020): 18.
+70.	Croce, Francesco, et al. "Robustbench: a standardized adversarial robustness bench-mark." arXiv preprint arXiv:2010.09670 (2020).
+71.	A. Householder et al., "The CERT Guide to Coordinated Vulnerability Disclosure," Software Engineering Institute, Carnegie Mellon University, Technical Report CMU/SEI-2017-TR-022, 2017.
